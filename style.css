@@ -108,6 +108,7 @@ name {
   -webkit-transition: opacity 0.8s ease-in-out;
   -o-transition: opacity 0.8s ease-in-out;
   transition: opacity 0.8s ease-in-out;
+  box-sizing: content-box;
 }
 
 /* SECONDE FICHE */
