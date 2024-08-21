@@ -172,3 +172,35 @@ name {
   left: 0;
   top: 0;
 }
+
+/* FICHE DE RP */
+
+.cita-position {
+  display: flex;
+  text-align: right;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.cita-length {
+  width: 350px;
+  flex: none;
+  margin-right: 30px;
+  text-align: right;
+  margin-top: -20px;
+}
+
+.rp-krys {
+  padding: 10px 30px 30px 30px;
+  font-family: Roboto;
+  text-align: justify;
+  font-size: 12px;
+}
+
+.feat-krys {
+  font-family: Roboto Condensed;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-right: 30px;
+}
